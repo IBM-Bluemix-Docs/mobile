@@ -1,0 +1,26 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="mobile" audience="service" href="/docs/services/mobile/index.html"}
+Mobile
+
+    {: .navgroup id="learn"}
+    index.md
+    getting-started-mobile.md
+    getting-started-adding-mobile-services.md
+
+    {: .topicgroup}
+    Additional resources
+        [Blog](https://www.ibm.com/blogs/bluemix/category/products/mobile/)
+        [Webinars](http://mobilefirstplatform.ibmcloud.com/webinars/)
+        [Mobile Code patterns](https://developer.ibm.com/code/patterns/category/mobile/)
+        [Mobile Services Videos](https://www.youtube.com/channel/UCh_xLgh2_kENFxAeN8hhkHw)
+        [IBM Mobile Tutorials](http://mobilefirstplatform.ibmcloud.com/mobiletutorials/)		
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    {: .topicgroup}
+    Developer community
+        [IBM Mobile community on Slack](https://mobilefirstplatform.ibmcloud.com/blog/2017/05/26/come-chat-with-us/)
+		[IBM developerWorks](https://developer.ibm.com/answers/topics/bluemix-mobile-services/)
+    {: .navgroup-end}
