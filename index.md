@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017, 2018
-lastupdated: "2018-01-09"
+lastupdated: "2018-01-10"
 
 ---
 
@@ -20,9 +20,9 @@ lastupdated: "2018-01-09"
 # Building Mobile apps on {{site.data.keyword.cloud_notm}}
 {: #about}
 
-You can manage your Mobile apps and the services that are integrated with the mobile app through the concept of a Mobile Developer Console *Project*. You can create a Project using the [Mobile Developer Console](https://console.bluemix.net/developer/mobile). The Mobile developer console brings in most commonly used services, starters, and capabilities for building mobile apps into one continuous experience that is optimized for the developer.
+You can manage your Mobile apps and their integrated services through the concept of a Mobile Developer Console *Project*. You can create a Project using the [Mobile Developer Console](https://console.bluemix.net/developer/mobile). The Mobile developer console brings in most commonly used services, starters, and capabilities for building mobile apps into one continuous experience that is optimized for the developer.
 
-The {{site.data.keyword.cloud_notm}} mobile developer console enables a developer to create a project from a variety of starter kits, create and connect key {{site.data.keyword.cloud_notm}} services to your project, and quickly download working code with SDKs. The SDKs are fully integrated with capability credentials or dependencies that enable you to have it running in minutes. When your application is running and you have set up and configured capabilities, you can return to your project to monitor and manage engagement with your application users. You can also configure and manage your services through the {{site.data.keyword.dev_console}}.
+The {{site.data.keyword.cloud_notm}} mobile developer console enables a developer to create a project from a variety of starter kits, create and connect key {{site.data.keyword.cloud_notm}} services to your project, and quickly download working code with SDKs. The SDKs are fully integrated with capability credentials or dependencies that enable you to have it running in minutes. When your application is running and you have set up and configured capabilities, you can return to your project to monitor and manage engagement with your application users. You can also configure and manage your services through the Mobile Developer Console.
 
 The downloaded starter app code can become a starting point for your new mobile app. If you are integrating {{site.data.keyword.cloud_notm}} services into an existing mobile app, the downloaded code serves as a reference code to help you integrate with {{site.data.keyword.cloud_notm}} services.
 
@@ -47,9 +47,13 @@ The Project Overview page also allows you to add new services to your project. T
 
 For convenience, the credentials for the services associated with your project are shown on the **Project Overview** page under the **Credentials** section.
 
-Select **Download Code** to generate and download the code for your project. For more information about downloading the code, see [Get code](https://console.bluemix.net/docs/cloudnative/get_code.html).
 
-Also, note that you can deploy your project to {{site.data.keyword.cloud_notm}} by clicking on the *Create Toolchain* button.
+### Get Code
+{: #get_code}
+
+When you have completed the configuration and setup of your project with your selected capabilities, you can download the code that enables you to run the mobile app. Your downloaded project is pre-configured with the required SDK dependencies and credentials for each capability that you configured.
+
+Select **Download Code** to generate and download the code for your project. 
 
 
 ## Starter kits
