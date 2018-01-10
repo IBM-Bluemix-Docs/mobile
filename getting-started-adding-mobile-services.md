@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017, 2018
-lastupdated: "2018-01-04"
+lastupdated: "2018-01-09"
 
 ---
 
@@ -23,12 +23,14 @@ lastupdated: "2018-01-04"
 
 You can use the following Mobile services while developing your mobile app.:
 
-- {{site.data.keyword.apiconnect_short}}
-- {{site.data.keyword.appid_short_notm}}
-- {{site.data.keyword.mobilepushshort}}
-- {{site.data.keyword.mobileanalytics_short}}
-- {{site.data.keyword.mobilefoundation_short}}
-- {{site.data.keyword.engage_short}}
+- [{{site.data.keyword.apiconnect_short}}](https://new-console.ng.bluemix.net/docs/services/apiconnect/index.html)
+- [{{site.data.keyword.appid_short_notm}}](https://www.ng.bluemix.net/docs/#services/appid/index.html)
+- [{{site.data.keyword.mobilepushshort}}](https://console.ng.bluemix.net/docs/services/mobilepush/index.html)
+- [{{site.data.keyword.mobileanalytics_short}}](https://console.ng.bluemix.net/docs/services/mobileanalytics/index.html)
+- [{{site.data.keyword.mobilefoundation_short}}](https://www.ng.bluemix.net/docs/services/mobilefoundation/index.html)
+- [{{site.data.keyword.engage_short}}](https://console-regional.ng.bluemix.net/docs/services/app-launch/index.html)
+- [{{site.data.keyword.cos_short}}](https://www.ng.bluemix.net/docs/services/ObjectStorage/index.html)
+- [{{site.data.keyword.cloudant_short_notm}}](https://console.ng.bluemix.net/docs/services/Cloudant/getting-started.html)
 
 Build your mobile app for Android or iOS
 
