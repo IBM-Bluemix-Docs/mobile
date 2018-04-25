@@ -14,7 +14,7 @@ Mobile
         [Blog](https://www.ibm.com/blogs/bluemix/category/products/mobile/)
         [Webinars](http://mobilefirstplatform.ibmcloud.com/webinars/)
         [Mobile Code patterns](https://developer.ibm.com/code/patterns/category/mobile/)
-        [Mobile Services Videos](https://www.youtube.com/channel/UCh_xLgh2_kENFxAeN8hhkHw)
+        [Mobile Services Videos](https://www.youtube.com/channel/UCbacV2-Y2NVAOsUMfeitAdg)
         [IBM Mobile Tutorials](https://console.bluemix.net/docs/tutorials/index.html#mobile)		
     {: .navgroup-end}
 
