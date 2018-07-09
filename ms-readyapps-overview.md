@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017, 2018
-lastupdated: "2018-07-07"
+lastupdated: "2018-07-09"
 
 ---
 
@@ -20,16 +20,20 @@ lastupdated: "2018-07-07"
 # Ready Apps
 {: #readyapps-overview}
 
-Ready Apps is a suite of Mobile apps which IBM has open sourced that allow developers to accelerate their process in getting up and running with IBM Cloud services. These Ready apps solve a innovative use cases in specific Industries. Developers can use these as starting points to create full-fledged production apps. The apps are distributed under the Apache Licence so developers are free to use the source code to build their production apps.
+Ready Apps is a suite of Mobile apps which IBM has open sourced that allow developers to accelerate their process in getting up and running with IBM Cloud services. These Ready apps solve a innovative use cases in specific Industries. Developers can use these as starting points to create full-fledged production apps.
+
+The apps are distributed under the [IBM Ready App Licence](https://github.com/IBM-MIL/IBM-Ready-App-for-Telecommunications/blob/master/License.txt) so developers are free to use the source code to build their production apps.
 
 Here are some of the Ready Apps that can be of helpful in your business:
 
 ## IBM Ready App for Telecommunications
 {: #readyapps-telecom}
 
-IBM Ready App for Telecommunications gives users the ability to optimize their telecommunications service, including voice, text, and data.
+**IBM Ready App for Telecommunications** gives subscribers the ability to optimize their telecommunications service, including voice, text, and data. This usecase demonstrates a new genre of mobile service provider where plans are controlled by the end user and not limited to a few choices, empowering the subscriber to control their mobile voice, text, and data plan while empowering the telco service provider to provide the right offers at the right time. Powered by IBM Cloud and IBM’s MobileFirst Platform.
 
-This app uses Cloudant Geospatial to find hotspots near you. It also incorporates analytics to track how people are using the application so you can give them a better user experience. 
+With this app, mobile subscribers are able to view the status and usage details for their existing plans. They can also change and optimize their service, meeting their own needs without ever having to contact customer service. Additionally, they can find access to the nearest Wi-Fi hotspot made available by their telco service provider.
+
+Technologies used: IBM Cloud: [**Mobile Foundation**](https://console.bluemix.net/catalog/services/mobile-foundation/), [**Cloudant**](https://console.bluemix.net/catalog/services/cloudant) and Twitter.
 
 For more details and other information, visit:
 
@@ -38,7 +42,7 @@ For more details and other information, visit:
 ## IBM Ready App for Consumer Loyalty
 {: #readyapps-loyalty}
 
-IBM Ready App for Consumer Loyalty helps retailers retain customers and increase revenue generating transactions.
+**IBM Ready App for Consumer Loyalty** helps retailers retain customers and increase revenue generating transactions.
 
 IBM Ready App for Consumer Loyalty is built for the retail industry, with a focus on Convenience Store Loyalty Programs. This App emphasizes contextualization, which is pivotal for delivering powerful, personalized digital experiences.
 
