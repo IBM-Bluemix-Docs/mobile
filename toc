@@ -11,7 +11,7 @@ Mobile
 
     {: .topicgroup}
     Additional resources
-        [Ready Apps](ms-readyapps-overview.html)
+        ms-readyapps-overview.md
         [Blog](https://www.ibm.com/blogs/bluemix/category/products/mobile/)
         [Webinars](http://mobilefirstplatform.ibmcloud.com/webinars/)
         [Mobile Code patterns](https://developer.ibm.com/code/patterns/category/mobile/)
