@@ -17,14 +17,14 @@ lastupdated: "2018-07-10"
 {:python: .ph data-hd-programlang='python'}
 {:swift: .ph data-hd-programlang='swift'}
 
-# Ready Apps
+# Industry Ready Apps
 {: #readyapps-overview}
 
-Ready Apps is a suite of Mobile apps which IBM has open sourced that allow developers to accelerate their process in getting up and running with IBM Cloud services. These Ready apps solve a innovative use cases in specific Industries. Developers can use these as starting points to create full-fledged production apps.
+Industry Ready Apps is a suite of Mobile apps which IBM has open sourced that allow developers to accelerate their process in getting up and running with IBM Cloud services. These Ready Apps solve a innovative use cases in specific Industries. Developers can use these as starting points to create full-fledged production apps.
 
 The apps are distributed under the [IBM Ready App Licence](https://github.com/IBM-MIL/IBM-Ready-App-for-Telecommunications/blob/master/License.txt) so developers are free to use the source code to build their production apps.
 
-Here are some of the Ready Apps that can be of helpful in your business:
+Here are some of the Industry Ready Apps that can be of helpful in your business:
 
 ## Telecommunications
 {: #readyapps-telecom}
