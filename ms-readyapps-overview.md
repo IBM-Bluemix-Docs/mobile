@@ -37,7 +37,7 @@ Technologies used: IBM Cloud: [**IBM Mobile Foundation**](https://console.bluemi
 
 For more details and other information, visit:
 
-[Blog](https://developer.ibm.com/code/open/projects/ibm-ready-app-for-telecommunications/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://vimeo.com/137391117)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub source](https://github.com/IBM-MIL/IBM-Ready-App-for-Telecommunications)
+[Blog](https://developer.ibm.com/code/open/projects/ibm-ready-app-for-telecommunications/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://www.youtube.com/watch?v=6-PJFhQMuDU)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub source](https://github.com/IBM-MIL/IBM-Ready-App-for-Telecommunications)
 
 ## Consumer Loyalty
 {: #readyapps-loyalty}
@@ -52,5 +52,5 @@ Technologies used: IBM Cloud: [**IBM Mobile Foundation**](https://console.bluemi
 
 For more details and other information, visit:
 
-[Blog](https://developer.ibm.com/open/2015/10/19/ibm-ready-app-for-consumer-loyalty/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://vimeo.com/135514099)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub source](https://github.com/IBM-MIL/IBM-Ready-App-for-Loyalty)
+[Blog](https://developer.ibm.com/open/2015/10/19/ibm-ready-app-for-consumer-loyalty/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://www.youtube.com/watch?v=jm_3dIS0xcw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub source](https://github.com/IBM-MIL/IBM-Ready-App-for-Loyalty)
   
