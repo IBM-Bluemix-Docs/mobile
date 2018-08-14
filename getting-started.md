@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017, 2018
-lastupdated: "2018-01-09"
+lastupdated: "2018-08-14"
 
 ---
 
@@ -17,10 +17,10 @@ lastupdated: "2018-01-09"
 {:python: .ph data-hd-programlang='python'}
 {:swift: .ph data-hd-programlang='swift'}
 
-# Getting started
-{: #about}
+# Getting started tutorial
+{: #gstutorial}
 
-You are just a few steps away from getting started with [building mobile apps on {{site.data.keyword.cloud_notm}}](https://console.bluemix.net/developer/mobile/dashboard).
+In this tutorial, we introduce the mobile starter kit/service and go through the process of [building mobile apps on {{site.data.keyword.cloud_notm}}](https://console.bluemix.net/developer/mobile/dashboard).
 {: shortdesc}
 
 ## Step 1: Getting a free {{site.data.keyword.cloud_notm}} account

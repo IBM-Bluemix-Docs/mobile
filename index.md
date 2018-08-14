@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017, 2018
-lastupdated: "2018-01-10"
+lastupdated: "2018-08-14"
 
 ---
 
@@ -20,7 +20,7 @@ lastupdated: "2018-01-10"
 # Building Mobile apps on {{site.data.keyword.cloud_notm}}
 {: #about}
 
-You can manage your Mobile apps and their integrated services through the concept of a Mobile Developer Console *Project*. You can create a Project using the [Mobile Developer Console](https://console.bluemix.net/developer/mobile). The Mobile developer console brings in most commonly used services, starters, and capabilities for building mobile apps into one continuous experience that is optimized for the developer.
+You can manage your Mobile apps and their integrated services through the concept of a Mobile Developer Console *Project*. You can create a Project using the [Mobile Developer Console](https://console.bluemix.net/developer/mobile/dashboard). The Mobile developer console brings in most commonly used services, starters, and capabilities for building mobile apps into one continuous experience that is optimized for the developer.
 
 The {{site.data.keyword.cloud_notm}} mobile developer console enables a developer to create a project from a variety of starter kits, create and connect key {{site.data.keyword.cloud_notm}} services to your project, and quickly download working code with SDKs. The SDKs are fully integrated with capability credentials or dependencies that enable you to have it running in minutes. When your application is running and you have set up and configured capabilities, you can return to your project to monitor and manage engagement with your application users. You can also configure and manage your services through the Mobile Developer Console.
 
