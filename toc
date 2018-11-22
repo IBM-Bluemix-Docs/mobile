@@ -1,12 +1,13 @@
-{:navgroup: .navgroup}
-{:topicgroup: .topicgroup}
+<!-- Markdown Navigation -->
+{: navgroup: .navgroup}
+{: topicgroup: .topicgroup}
 
-{: .toc subcollection="mobile" audience="service" arm="4032977" href="/docs/services/mobile/getting-started.html"}
+{: .toc subcollection="mobile" audience="service" arm="4032977" href="/docs/services/mobile/index.html" path="services/mobile"}
 Mobile
 
     {: .navgroup id="learn"}
-    getting-started.md
     index.md
+    getting-started.md
     getting-started-adding-mobile-services.md
 
     {: .topicgroup}
@@ -23,5 +24,5 @@ Mobile
     {: .topicgroup}
     Developer community
         [IBM Mobile community on Slack](https://mobilefirstplatform.ibmcloud.com/blog/2017/05/26/come-chat-with-us/)
-		[IBM developerWorks](https://developer.ibm.com/answers/topics/bluemix-mobile-services/)
+	[IBM developerWorks](https://developer.ibm.com/answers/topics/bluemix-mobile-services/)
     {: .navgroup-end}
