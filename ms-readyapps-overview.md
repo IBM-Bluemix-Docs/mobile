@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017, 2018
-lastupdated: "2018-07-10"
+lastupdated: "2018-11-23"
 
 ---
 
@@ -52,5 +52,5 @@ Technologies used: IBM Cloud: [**IBM Mobile Foundation**](https://console.bluemi
 
 For more details and other information, visit:
 
-[Blog](https://developer.ibm.com/open/2015/10/19/ibm-ready-app-for-consumer-loyalty/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://www.youtube.com/watch?v=jm_3dIS0xcw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub source](https://github.com/IBM-MIL/IBM-Ready-App-for-Loyalty)
+[Blog](https://developer.ibm.com/code/2015/10/19/ibm-ready-app-for-consumer-loyalty/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://www.youtube.com/watch?v=jm_3dIS0xcw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub source](https://github.com/IBM-MIL/IBM-Ready-App-for-Loyalty)
   
