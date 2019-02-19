@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2017, 2018
-lastupdated: "2018-08-14"
+  years: 2015, 2017, 2018, 2019
+lastupdated: "2019-02-19"
 
 ---
 
@@ -20,13 +20,13 @@ lastupdated: "2018-08-14"
 # Getting started tutorial
 {: #gstutorial}
 
-In this tutorial, we introduce the mobile starter kit/service and go through the process of [building mobile apps on {{site.data.keyword.cloud_notm}}](https://console.bluemix.net/developer/mobile/dashboard).
+In this tutorial, we introduce the mobile starter kit/service and go through the process of [building mobile apps on {{site.data.keyword.cloud_notm}}](https://cloud.ibm.com/developer/mobile/dashboard).
 {: shortdesc}
 
 ## Step 1: Getting a free {{site.data.keyword.cloud_notm}} account
 {: #free-account}
 
-Create an account on {{site.data.keyword.cloud_notm}} to try Mobile Services for free with no time restrictions. [Sign-up for free ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://console.{DomainName}/registration/?target=%2Fdeveloper%2Fmobile%2Fdashboard){: new_window}. You'll receive an email to confirm and activate your account.
+Create an account on {{site.data.keyword.cloud_notm}} to try Mobile Services for free with no time restrictions. [Sign-up for free ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/registration/){: new_window}. You'll receive an email to confirm and activate your account.
 
 ## Step 2: Finding a starter kit or pick a service
 {: #access-console}

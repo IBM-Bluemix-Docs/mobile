@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2017, 2018
-lastupdated: "2018-11-23"
+  years: 2015, 2017, 2018, 2019
+lastupdated: "2019-02-15"
 
 ---
 
@@ -33,11 +33,11 @@ Here are some of the Industry Ready Apps that can be of helpful in your business
 
 With this app, mobile subscribers are able to view the status and usage details for their existing plans. They can also change and optimize their service, meeting their own needs without ever having to contact customer service. Additionally, they can find access to the nearest Wi-Fi hotspot made available by their telco service provider.
 
-Technologies used: IBM Cloud: [**IBM Mobile Foundation**](https://console.bluemix.net/catalog/services/mobile-foundation/), [**Cloudant**](https://console.bluemix.net/catalog/services/cloudant) and Twitter.
+Technologies used: IBM Cloud: [**IBM Mobile Foundation**](https://cloud.ibm.com/catalog/services/mobile-foundation/), [**Cloudant**](https://cloud.ibm.com/catalog/services/cloudant) and Twitter.
 
 For more details and other information, visit:
 
-[Blog](https://developer.ibm.com/code/open/projects/ibm-ready-app-for-telecommunications/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://www.youtube.com/watch?v=6-PJFhQMuDU)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub source](https://github.com/IBM-MIL/IBM-Ready-App-for-Telecommunications)
+[Video](https://www.youtube.com/watch?v=6-PJFhQMuDU)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub source](https://github.com/IBM-MIL/IBM-Ready-App-for-Telecommunications)
 
 ## Consumer Loyalty
 {: #readyapps-loyalty}
@@ -48,7 +48,7 @@ IBM Ready App for Consumer Loyalty is built for the retail industry, with a focu
 
 With this app, customers are guided into a store and provided with contextual promotions based on personal preferences, real-time incentives, and location.
 
-Technologies used: IBM Cloud: [**IBM Mobile Foundation**](https://console.bluemix.net/catalog/services/mobile-foundation/), [**IBM Watson Personality Insights**](https://console.bluemix.net/catalog/services/personality-insights), [**IBM Push Notifications**](https://console.bluemix.net/catalog/services/push-notifications), and [**IBM Cloud Functions**](https://console.bluemix.net/openwhisk/).
+Technologies used: IBM Cloud: [**IBM Mobile Foundation**](https://cloud.ibm.com/catalog/services/mobile-foundation/), [**IBM Watson Personality Insights**](https://cloud.ibm.com/catalog/services/personality-insights), [**IBM Push Notifications**](https://cloud.ibm.com/catalog/services/push-notifications), and [**IBM Cloud Functions**](https://cloud.ibm.com/openwhisk/).
 
 For more details and other information, visit:
 
