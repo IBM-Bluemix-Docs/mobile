@@ -2,7 +2,11 @@
 
 copyright:
   years: 2015, 2017, 2018, 2019
-lastupdated: "2019-02-19"
+lastupdated: "2019-04-22"
+
+keywords: mobile starter kit, mobile services dashboard, service credentials
+
+subcollection: mobile
 
 ---
 
