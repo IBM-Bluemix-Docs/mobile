@@ -2,7 +2,7 @@
 {: navgroup: .navgroup}
 {: topicgroup: .topicgroup}
 
-{: .toc subcollection="mobile" service-name="Mobile" audience="service" arm="4032977" href="/docs/services/mobile?topic=mobile-getting-started#getting-started" path="services/mobile"}
+{: .toc subcollection="mobile" category="mobile" audience="service" arm="4032977" href="/docs/services/mobile?topic=mobile-getting-started#getting-started" path="services/mobile"}
 Mobile
 
     {: .navgroup id="learn"}
