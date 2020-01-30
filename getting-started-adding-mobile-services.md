@@ -28,13 +28,11 @@ subcollection: mobile
 
 You can use the following Mobile services while developing your mobile app.:
 
-- [{{site.data.keyword.appid_short_notm}}](https://cloud.ibm.com/docs/services/appid/index.html)
-- [{{site.data.keyword.mobilepushshort}}](https://cloud.ibm.com/docs/services/mobilepush/index.html)
-- [{{site.data.keyword.mobileanalytics_short}}](https://cloud.ibm.com/docs/services/mobileanalytics/index.html)
-- [{{site.data.keyword.mobilefoundation_short}}](https://cloud.ibm.com/docs/services/mobilefoundation/index.html)
-- [{{site.data.keyword.engage_short}}](https://cloud.ibm.com/docs/services/app-launch/index.html)
-- [{{site.data.keyword.apiconnect_short}}](https://cloud.ibm.com/docs/services/apiconnect/index.html)
-- [{{site.data.keyword.cloudant_short_notm}}](https://cloud.ibm.com/docs/services/Cloudant/getting-started.html)
+- [{{site.data.keyword.appid_short_notm}}](https://cloud.ibm.com/docs/services/appid?topic=appid-getting-started)
+- [{{site.data.keyword.mobilepushshort}}](https://cloud.ibm.com/docs/services/mobilepush?topic=mobile-pushnotification-gettingstartedtemplate)
+- [{{site.data.keyword.mobilefoundation_short}}](https://cloud.ibm.com/docs/services/mobilefoundation?topic=mobilefoundation-getting-started)
+- [{{site.data.keyword.apiconnect_short}}](https://cloud.ibm.com/docs/services/apiconnect?topic=apiconnect-getting-started)
+- [{{site.data.keyword.cloudant_short_notm}}](https://cloud.ibm.com/docs/services/Cloudant?topic=cloudant-getting-started-with-cloudant)
 
 After you add the required mobile services, you can download the scaffolding code for the newly added services by clicking **Download Code** button. The downloaded scaffolding code includes the credentials for the newly added services.
 
